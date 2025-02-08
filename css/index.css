@@ -16,15 +16,15 @@
 }
 @font-face {
     font-family: PoppinsBold;
-    src: url(/font/poppins.bold.ttf);
+    src: url(font/poppins.bold.ttf);
 }
 @font-face {
     font-family: PoppinsReg;
-    src: url(/font/poppins.regular.ttf);
+    src: url(font/poppins.regular.ttf);
 }
 @font-face {
     font-family: PoppinsSemBold;
-    src: url(/font/poppins.semibold.ttf);
+    src: url(font/poppins.semibold.ttf);
 }
 *{
     box-sizing: border-box;
@@ -193,19 +193,19 @@ nav ul li a:active{
     color: transparent;
 }
 .card-1{
-    background-image:url(/img/Unofficial_JavaScript_logo_2.svg.png) ;
+    background-image:url(img/Unofficial_JavaScript_logo_2.svg.png) ;
     background-position: center;
     background-size: cover;
     filter: blur(1px) grayscale(1);
 }
 .card-2{
-    background-image:url(/img/images.png) ;
+    background-image:url(img/images.png) ;
     background-position: center;
     background-size: cover;
     filter: blur(1px) grayscale(1);
 }
 .card-3{
-    background-image:url(/img/CSS3_logo.svg-removebg-preview.png) ;
+    background-image:url(img/CSS3_logo.svg-removebg-preview.png) ;
     background-position: center;
     background-size: cover;
     filter: blur(1px) grayscale(1);
